@@ -1,0 +1,15 @@
+{
+  "name": "ac-pixlbros",
+  "version": "1.0.0",
+  "repository": {
+  "type": "git",
+  "url": "git://github.com/jshuadvd"
+  },
+  "description": "A look at the lair",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "JSHUADVD",
+  "license": "ISC"
+}
